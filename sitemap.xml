@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://assetfreedownload.com/Toony-Colors-Pro-2-2-8-0-Free-Dowload/</loc>
+    
+    <lastmod>2022-05-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://assetfreedownload.com/Terrain-To-Mesh-2021-5-Free-Download/</loc>
     
     <lastmod>2022-05-27</lastmod>
@@ -126,14 +135,14 @@
   </url>
   
   <url>
-    <loc>https://assetfreedownload.com/tags/Network/</loc>
+    <loc>https://assetfreedownload.com/tags/GUI/</loc>
     <lastmod>2022-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://assetfreedownload.com/tags/GUI/</loc>
+    <loc>https://assetfreedownload.com/tags/Network/</loc>
     <lastmod>2022-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -190,6 +199,20 @@
   
   <url>
     <loc>https://assetfreedownload.com/tags/Terrain/</loc>
+    <lastmod>2022-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://assetfreedownload.com/tags/Unity-VFX/</loc>
+    <lastmod>2022-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://assetfreedownload.com/tags/Shaders/</loc>
     <lastmod>2022-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
