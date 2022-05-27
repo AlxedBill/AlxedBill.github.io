@@ -162,14 +162,14 @@
   </url>
   
   <url>
-    <loc>https://assetfreedownload.com/tags/Network/</loc>
+    <loc>https://assetfreedownload.com/tags/GUI/</loc>
     <lastmod>2022-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://assetfreedownload.com/tags/GUI/</loc>
+    <loc>https://assetfreedownload.com/tags/Network/</loc>
     <lastmod>2022-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -204,13 +204,6 @@
   </url>
   
   <url>
-    <loc>https://assetfreedownload.com/tags/Utilities/</loc>
-    <lastmod>2022-05-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://assetfreedownload.com/tags/Unity-3D/</loc>
     <lastmod>2022-05-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -226,6 +219,13 @@
   
   <url>
     <loc>https://assetfreedownload.com/tags/Creatures/</loc>
+    <lastmod>2022-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://assetfreedownload.com/tags/Utilities/</loc>
     <lastmod>2022-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
